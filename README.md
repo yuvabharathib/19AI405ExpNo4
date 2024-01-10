@@ -4,6 +4,8 @@
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
+``````
+
 // A* Search Algorithm
 1.  Initialize the open list
 2.  Initialize the closed list
@@ -45,6 +47,7 @@
   
     e) push q on the closed list
     end (while loop)
+```````
 <hr>
 <h2>Sample Graph I</h2>
 <hr>
